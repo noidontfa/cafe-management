@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/btw-icon-cafe.png</file>
+        <file>img/coffee-512.png</file>
+    </qresource>
+</RCC>
